@@ -1,0 +1,8 @@
+2013-12-05 11:03:18.9375|ERROR|MergeQueryUtil.Logs
+[2013-12-5 11:03:18]:ExecuteNonQuery：无法更新标识列 'id'。
+
+
+2013-12-05 11:08:25.9218|ERROR|MergeQueryUtil.Logs
+[2013-12-5 11:08:25]:ExecuteNonQuery：无法更新标识列 'id'。
+
+

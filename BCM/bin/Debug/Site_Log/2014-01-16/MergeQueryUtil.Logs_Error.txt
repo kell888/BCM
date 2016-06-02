@@ -1,0 +1,152 @@
+2014-01-16 10:37:41.3125|ERROR|MergeQueryUtil.Logs
+[2014-1-16 10:37:41]:ExecuteNonQuery：'02' 附近有语法错误。
+'2' 附近有语法错误。
+'0' 附近有语法错误。
+'02' 附近有语法错误。
+'2' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'\' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+找不到存储过程 'dbo.p_test_config_table'。
+
+
+2014-01-16 10:42:59.9531|ERROR|MergeQueryUtil.Logs
+[2014-1-16 10:42:59]:ExecuteNonQuery：'02' 附近有语法错误。
+'2' 附近有语法错误。
+'0' 附近有语法错误。
+'02' 附近有语法错误。
+'2' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'\' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+找不到存储过程 'dbo.p_test_config_table'。
+
+
+2014-01-16 10:43:58.6562|ERROR|MergeQueryUtil.Logs
+[2014-1-16 10:43:58]:ExecuteNonQuery：'02' 附近有语法错误。
+'2' 附近有语法错误。
+'0' 附近有语法错误。
+'02' 附近有语法错误。
+'2' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'\' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+找不到存储过程 'dbo.p_test_config_table'。
+
+
+2014-01-16 10:45:01.3750|ERROR|MergeQueryUtil.Logs
+[2014-1-16 10:45:01]:ExecuteNonQuery：'02' 附近有语法错误。
+'2' 附近有语法错误。
+'0' 附近有语法错误。
+'02' 附近有语法错误。
+'2' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'\' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+'?' 附近有语法错误。
+找不到存储过程 'dbo.p_test_config_table'。
+
+
+2014-01-16 11:48:07.3281|ERROR|MergeQueryUtil.Logs
+[2014-1-16 11:48:07]:ExecuteNonQuery：'0x2065' 附近有语法错误。
+
+
+2014-01-16 13:30:41.3125|ERROR|MergeQueryUtil.Logs
+[2014-1-16 13:30:41]:ExecuteScalar：'device_type_id' 附近有语法错误。
+
+
+2014-01-16 13:33:14.0312|ERROR|MergeQueryUtil.Logs
+[2014-1-16 13:33:14]:ExecuteScalar：'device_type_id' 附近有语法错误。
+
+
+2014-01-16 13:38:26.7343|ERROR|MergeQueryUtil.Logs
+[2014-1-16 13:38:26]:ExecuteScalar：'device_type_id' 附近有语法错误。
+
+
+2014-01-16 16:09:41.8906|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:09:41]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+
+2014-01-16 16:12:02.7656|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:12:02]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+
+2014-01-16 16:12:05.0156|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:12:05]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+
+2014-01-16 16:12:05.7656|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:12:05]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+
+2014-01-16 16:12:15.2031|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:12:15]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+
+2014-01-16 16:13:36.3281|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:13:36]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+
+2014-01-16 16:13:38.0312|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:13:38]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+
+2014-01-16 16:13:39.4531|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:13:39]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+
+2014-01-16 16:13:49.7187|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:13:49]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+
+2014-01-16 16:14:48.7656|ERROR|MergeQueryUtil.Logs
+[2014-1-16 16:14:48]:ExecuteScalar：'m_object;object_id;full_name;;False' 附近有语法错误。
+
+

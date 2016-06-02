@@ -1,0 +1,36 @@
+2013-11-29 11:39:21.7968|ERROR|MergeQueryUtil.Logs
+[2013-11-29 11:39:21]:ExecuteNonQuery：从数据类型 nvarchar 转换为 numeric 时出错。
+
+
+2013-11-29 11:40:18.5937|ERROR|MergeQueryUtil.Logs
+[2013-11-29 11:40:18]:ExecuteNonQuery：从数据类型 nvarchar 转换为 numeric 时出错。
+
+
+2013-11-29 11:54:04.3437|ERROR|MergeQueryUtil.Logs
+[2013-11-29 11:54:04]:ExecuteNonQuery：从数据类型 nvarchar 转换为 numeric 时出错。
+
+
+2013-11-29 15:16:59.1718|ERROR|MergeQueryUtil.Logs
+[2013-11-29 15:16:59]:ExecuteNonQuery：找不到存储过程 'usp_DeleteNode'。
+
+
+2013-11-29 15:17:03.3125|ERROR|MergeQueryUtil.Logs
+[2013-11-29 15:17:03]:ExecuteNonQuery：找不到存储过程 'usp_DeleteNode'。
+
+
+2013-11-29 15:17:37.5000|ERROR|MergeQueryUtil.Logs
+[2013-11-29 15:17:37]:ExecuteNonQuery：找不到存储过程 'usp_DeleteNode'。
+
+
+2013-11-29 16:06:45.6406|ERROR|MergeQueryUtil.Logs
+[2013-11-29 16:06:45]:ExecuteQueryDataTable：'=' 附近有语法错误。
+
+
+2013-11-29 16:07:53.5156|ERROR|MergeQueryUtil.Logs
+[2013-11-29 16:07:53]:ExecuteQueryDataTable：'=' 附近有语法错误。
+
+
+2013-11-29 16:09:00.8281|ERROR|MergeQueryUtil.Logs
+[2013-11-29 16:09:00]:ExecuteQueryDataTable：'=' 附近有语法错误。
+
+

@@ -1,0 +1,32 @@
+F:\BCM\BCM\obj\Debug\ResolveAssemblyReference.cache
+F:\BCM\BCM\obj\Debug\BCM.Condition.resources
+F:\BCM\BCM\obj\Debug\BCM.DBSetting.resources
+F:\BCM\BCM\obj\Debug\BCM.MainForm.resources
+F:\BCM\BCM\obj\Debug\BCM.NodeEditor.resources
+F:\BCM\BCM\obj\Debug\BCM.ObjectList.resources
+F:\BCM\BCM\obj\Debug\BCM.ObjectTable.resources
+F:\BCM\BCM\obj\Debug\BCM.Properties.Resources.resources
+F:\BCM\BCM\obj\Debug\BCM.PWD.resources
+F:\BCM\BCM\obj\Debug\BCM.Auth.resources
+F:\BCM\BCM\obj\Debug\BCM.SettingEditor.resources
+F:\BCM\BCM\obj\Debug\BCM.SettingTable.resources
+F:\BCM\BCM\obj\Debug\BCM.WhereTable.resources
+F:\BCM\BCM\obj\Debug\BCM.NewObjectForm.resources
+F:\BCM\BCM\obj\Debug\BCM.NewSettingForm.resources
+F:\BCM\BCM\obj\Debug\BCM.EditForm.resources
+F:\BCM\BCM\obj\Debug\BCM.AdminAuth.resources
+F:\BCM\BCM\obj\Debug\BCM.pdb
+F:\BCM\BCM\bin\Debug\BCM.exe.config
+F:\BCM\BCM\bin\Debug\BCM.exe
+F:\BCM\BCM\bin\Debug\BCM.pdb
+F:\BCM\BCM\bin\Debug\MergeQuery.dll
+F:\BCM\BCM\bin\Debug\NLog.dll
+F:\BCM\BCM\bin\Debug\Interop.SQLDMO.dll
+F:\BCM\BCM\bin\Debug\MergeQuery.pdb
+F:\BCM\BCM\bin\Debug\MergeQuery.xml
+F:\BCM\BCM\bin\Debug\NLog.pdb
+F:\BCM\BCM\bin\Debug\NLog.xml
+F:\BCM\BCM\obj\Debug\BCM.exe
+F:\2015 Backup\诺丽项目\BCM\BCM\bin\Debug\BCM.exe.config
+F:\2015 Backup\诺丽项目\BCM\BCM\obj\Debug\BCM.exe
+F:\2015 Backup\诺丽项目\BCM\BCM\obj\Debug\BCM.pdb
